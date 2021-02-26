@@ -10,3 +10,8 @@ This bot is owned by the devs, BLACKSTOCK777 and Vortex864.
 - Mostly with Dank Memer Commands
 - Role creations
 - Utility commands
+- Games
+
+# Prefix
+
+"."
